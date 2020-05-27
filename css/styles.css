@@ -1,0 +1,18 @@
+h1 {
+  color: #a2b08f;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ul {
+  line-height: 30px;
+}
+
+ol {
+  line-height: 30px;
+}
